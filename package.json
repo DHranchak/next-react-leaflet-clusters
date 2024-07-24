@@ -1,0 +1,19 @@
+{
+  "name": "next-leaflet-cluster",
+  "version": "2.1.0",
+  "description": "React-leaflet-cluster is a plugin for next-react-leaflet. A wrapper component of Leaflet.markercluster.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "author": "akursat",
+  "homepage": "https://akursat.gitbook.io/marker-cluster/",
+  "license": "SEE LICENSE IN <LICENSE>",
+  "repository": "https://github.com/akursat/react-leaflet-cluster",
+  "keywords": [
+    "react",
+    "leaflet",
+    "marker-cluster",
+    "cluster",
+    "map",
+    "react-leaflet-v4"
+  ]
+}
